@@ -1,0 +1,4 @@
+tot = 0
+for each in range(int(input())):
+    tot += int(input()) - 1
+print(tot + 1)
